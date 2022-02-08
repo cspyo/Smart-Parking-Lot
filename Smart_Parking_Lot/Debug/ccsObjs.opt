@@ -1,0 +1,1 @@
+"./lcd1602_drv.obj" "./main.obj" "./tm4c1294ncpdt_startup_ccs.obj" "./uartstdio.obj" "../tm4c1294ncpdt.cmd" -llibc.a -l"C:/ti/driverlib/ccs/Debug/driverlib.lib" 
